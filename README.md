@@ -1,0 +1,1 @@
+# SistemPakar_Certainy_Factor-dan-Fuzzy-Logic
